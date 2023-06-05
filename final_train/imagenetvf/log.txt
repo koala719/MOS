@@ -1,0 +1,6 @@
+2020-04-09 22:25:10,195 no gpu device available
+2020-04-09 23:35:52,176 no gpu device available
+2020-04-09 23:51:51,341 gpu device = 0
+2020-04-09 23:51:51,341 args = Namespace(arch='DARTS', auxiliary=False, auxiliary_weight=0.4, batch_size=64, data='/home1/dzx/darts-master/data/imagenet/', decay_period=30, drop_path_prob=0, epochs=200, gamma=0.1, gpu=0, grad_clip=5.0, init_channels=16, label_smooth=0.1, layers=36, learning_rate=0.01, mode='train', momentum=0.9, num_readers=16, parallel=True, report_freq=100, reset_save_dir=False, resume='./imagenetvf', save='./imagenetvf/', seed=0, start_epoch=0, tencrop=True, weight_decay=1e-05)
+2020-04-09 23:51:53,556 Architecture = [10, 10, 3, 3, 11, 11, 11, 11, 0, 0, 2, 2, 2, 2, 4, 4, 6, 6, 0, 0, 2, 2, 9, 9, 0, 0, 6, 6, 5, 5, 6, 6, 4, 4, 8, 8]
+2020-04-09 23:51:56,855 param size = 11.390590MB
